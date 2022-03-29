@@ -1,0 +1,19 @@
+.mf{
+    position:absolute;
+    top: 1123px;
+    left: 0px;
+    width: 1440px;
+    height: 50px;
+    background: #182838 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+.la{
+    position:absolute;
+    top: 0px;
+    left: 670px;
+    width: 99px;
+    height: 16px;
+    opacity: 1;
+    color: #FFFFFF;
+}

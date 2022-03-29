@@ -1,0 +1,78 @@
+.mainnn-content{
+    position: absolute;
+    top: 0px;
+left: 0px;
+width: 1440px;
+height: 80px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 2px 48px #0000000F;
+opacity: 1;
+}
+.mainn11{
+    position: absolute;
+    top: 27px;
+left: 45px;
+width: 108px;
+height: 27px;
+text-align: left;
+font: normal normal 900 20px/27px Avenir;
+letter-spacing: 1.8px;
+color: #5861AE;
+text-transform: uppercase;
+opacity: 1;
+}
+.mainn22{
+    position:absolute;
+    top: 34px;
+left: 1035px;
+width: 48px;
+height: 19px;
+text-align: center;
+font: normal normal normal 14px/19px Avenir;
+letter-spacing: 1.05px;
+color: #565657;
+text-transform: capitalize;
+opacity: 1;
+}
+.mainn33{
+    position:absolute;
+    top: 34px;
+left: 1150px;
+width: 46px;
+height: 19px;
+text-align: center;
+font: normal normal normal 14px/19px Avenir;
+letter-spacing: 1.05px;
+color: #565657;
+text-transform: capitalize;
+opacity: 1;
+
+}
+.mainn44{
+    position:absolute;
+    top: -15px;
+left: 1227px;
+width: 214px;
+height: 80px;
+background: #5861AE 0% 0% no-repeat padding-box;
+opacity: 1;
+text-align: center;
+font: normal normal medium 16px/22px Avenir;
+letter-spacing: 1.2px;
+color: #FFFFFF;
+text-transform: capitalize;
+opacity: 1;
+}
+.mainn414{
+    position:absolute;
+    top: 0px;
+left: 80px;
+width: 96px;
+height: 22px;
+text-align: center;
+font: normal normal medium 16px/22px Avenir;
+letter-spacing: 1.2px;
+color: #FFFFFF;
+text-transform: capitalize;
+opacity: 1;
+}

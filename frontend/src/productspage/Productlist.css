@@ -1,0 +1,864 @@
+
+.main-container{
+    position: absolute;
+    top: 176px;
+    left: 108px;
+    width: 1295px;
+    height: 50px;
+    background: #2F2F2F 0% 0% no-repeat padding-box;
+    border: 1px solid #E0E0E0;
+    border-radius: 2px;
+    opacity: 1; 
+}
+.product{
+    position: absolute;
+    top: -7.5px;
+left: 132px;
+width: 162px;
+height: 27px;
+text-align: left;
+font: normal normal 600 16px/48px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+.quantity{
+    position: absolute;
+
+    top: -7.5px;
+left: 465px;
+width: 162px;
+height: 27px;
+text-align: left;
+font: normal normal 600 16px/48px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+.washtype{
+    position: absolute;
+    top: -7.5px;
+left: 650px;
+width: 162px;
+height: 27px;
+text-align: left;
+font: normal normal 600 16px/48px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+.price{
+    position:absolute;
+    top: -7.5px;
+    
+left: 1000px;
+width: 162px;
+height: 27px;
+text-align: left;
+font: normal normal 600 16px/48px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+
+.closebtn{
+    position: absolute;
+    top: 580px;
+left: 1050px;
+width: 107px;
+height: 32px;
+border: 1px solid #5861AE;
+border-radius: 4px;
+opacity: 1;
+
+}
+.proceedbtn{
+    position: absolute;
+    top: 580px;
+left: 1190px;
+width: 107px;
+height: 32px;
+background: #5861AE 0% 0% no-repeat padding-box;
+border: 1px solid #5861AE;
+border-radius: 4px;
+opacity: 1;
+
+
+}
+/* FIRST ROW*/
+.image1{
+    position:absolute;
+    top: 50px;
+left:100px;
+width: 45px;
+height: 43px;
+border-radius: 2px;
+opacity: 1;
+
+}
+.shirts{
+    position: absolute;
+    top: 40px;
+    right:0px;
+left: 175px;
+width: 42px;
+height: 19px;
+text-align: left;
+font: normal normal 600 14px/48px Open Sans;
+letter-spacing: 0px;
+color: #1D2022;
+opacity: 1;
+
+}
+.paragraph{
+    position: absolute;
+    top: 60px;
+left: 175px;
+width: 193px;
+height: 14px;
+text-align: left;
+font: normal normal normal 10px/48px Open Sans;
+letter-spacing: 0px;
+color: #76788B;
+opacity: 1;
+
+}
+.quantity1{
+    position: absolute;
+    top: 70px;
+left: 460px;
+width: 63px;
+height: 26px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #BABABA;
+border-radius: 2px;
+opacity: 1;
+
+}
+.washing1{
+    position: absolute;
+    top: 70px;
+left: 600px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.ironing1{
+    position: absolute;
+    top: 70px;
+left: 650px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.towel1{
+    position: absolute;
+    top: 70px;
+left: 700px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.bleach1{
+    position: absolute;
+    top: 70px;
+left: 750px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+
+
+.price1{
+    position: absolute;
+    top: 70px;
+left: 1000px;
+width: 100px;
+height: 24px;
+text-align: left;
+font: normal normal normal 18px/24px Open Sans;
+letter-spacing: 0.43px;
+color: #605959;
+opacity: 0.73;
+
+}
+.reset1{
+    position: absolute;
+    
+    top: 70px;
+    left: 1220px;
+    width: 60px;
+    height: 32px;
+    background: white 0% 0% no-repeat padding-box;
+    border: 1px solid #5861AE;
+    border-radius: 4px;
+    opacity: 1;
+    
+}
+/*SECOND ROW STARTED*/
+
+.image2{
+    position:absolute;
+    top: 110px;
+left: 100px;
+width: 45px;
+height: 43px;
+border-radius: 2px;
+opacity: 1;
+
+}
+.tshirt{
+    position: absolute;
+    top: 100px;
+    right:0px;
+left: 175px;
+width: 42px;
+height: 19px;
+text-align: left;
+font: normal normal 600 14px/48px Open Sans;
+letter-spacing: 0px;
+color: #1D2022;
+opacity: 1;
+
+}
+.paragraph2{
+    position: absolute;
+    top: 120px;
+left: 175px;
+width: 193px;
+height: 14px;
+text-align: left;
+font: normal normal normal 10px/48px Open Sans;
+letter-spacing: 0px;
+color: #76788B;
+opacity: 1;
+
+}
+.quantity2{
+    position: absolute;
+    top: 125px;
+left: 460px;
+width: 63px;
+height: 26px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #BABABA;
+border-radius: 2px;
+opacity: 1;
+
+}
+.washing2{
+    position: absolute;
+    top: 125px;
+left: 600px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.ironing2{
+    position: absolute;
+    top: 125px;
+left: 650px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.towel2{
+    position: absolute;
+    top: 125px;
+left: 700px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.bleach2{
+    position: absolute;
+    top: 125px;
+left: 750px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+
+.price2{
+    position: absolute;
+    top: 120px;
+left: 1000px;
+width: 100px;
+height: 24px;
+text-align: left;
+font: normal normal normal 18px/24px Open Sans;
+letter-spacing: 0.43px;
+color: #605959;
+opacity: 0.73;
+
+}
+
+
+.reset2{
+    position: absolute;
+    
+    top: 125px;
+    left: 1220px;
+    width: 60px;
+    height: 32px;
+    background: white 0% 0% no-repeat padding-box;
+    border: 1px solid #5861AE;
+    border-radius: 4px;
+    opacity: 1;
+    
+}
+/* THIRD ROW STARTED */
+.image3{
+    position:absolute;
+    top: 170px;
+left: 100px;
+width: 45px;
+height: 43px;
+border-radius: 2px;
+opacity: 1;
+
+}
+.trousers{
+    position: absolute;
+    top: 160px;
+    right:0px;
+left: 175px;
+width: 42px;
+height: 19px;
+text-align: left;
+font: normal normal 600 14px/48px Open Sans;
+letter-spacing: 0px;
+color: #1D2022;
+opacity: 1;
+
+}
+.paragraph3{
+    position: absolute;
+    top: 180px;
+left: 175px;
+width: 193px;
+height: 14px;
+text-align: left;
+font: normal normal normal 10px/48px Open Sans;
+letter-spacing: 0px;
+color: #76788B;
+opacity: 1;
+
+}
+.quantity3{
+    position: absolute;
+    top: 185px;
+left: 460px;
+width: 63px;
+height: 26px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #BABABA;
+border-radius: 2px;
+opacity: 1;
+
+}
+.washing3{
+    position: absolute;
+    top: 185px;
+left: 600px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.ironing3{
+    position: absolute;
+    top: 185px;
+left: 650px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.towel3{
+    position: absolute;
+    top: 185px;
+left: 700px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.bleach3{
+    position: absolute;
+    top: 185px;
+left: 750px;
+width: 25px;
+height: 29px;
+opacity: 1;
+
+}
+.price3{
+    position: absolute;
+    top: 180px;
+left: 1000px;
+width: 100px;
+height: 24px;
+text-align: left;
+font: normal normal normal 18px/24px Open Sans;
+letter-spacing: 0.43px;
+color: #605959;
+opacity: 0.73;
+
+}
+
+
+.reset3{
+    position: absolute;
+    
+    top: 185px;
+    left: 1220px;
+    width: 60px;
+    height: 32px;
+    background: white 0% 0% no-repeat padding-box;
+    border: 1px solid #5861AE;
+    border-radius: 4px;
+    opacity: 1;
+    
+}
+/*  FOURTH ROW STARTED */
+.image4{
+    position:absolute;
+    top: 230px;
+left: 100px;
+width: 45px;
+height: 43px;
+border-radius: 2px;
+opacity: 1;
+
+}
+.jeans{
+    position: absolute;
+    top: 220px;
+    right:0px;
+left: 175px;
+width: 42px;
+height: 19px;
+text-align: left;
+font: normal normal 600 14px/48px Open Sans;
+letter-spacing: 0px;
+color: #1D2022;
+opacity: 1;
+
+}
+.paragraph4{
+    position: absolute;
+    top: 240px;
+left: 175px;
+width: 193px;
+height: 14px;
+text-align: left;
+font: normal normal normal 10px/48px Open Sans;
+letter-spacing: 0px;
+color: #76788B;
+opacity: 1;
+
+}
+.quantity4{
+    position: absolute;
+    top: 245px;
+left: 460px;
+width: 63px;
+height: 26px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #BABABA;
+border-radius: 2px;
+opacity: 1;
+
+}
+.washing4{
+    position: absolute;
+    top: 245px;
+left: 600px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.ironing4{
+    position: absolute;
+    top: 245px;
+left: 650px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.towel4{
+    position: absolute;
+    top: 245px;
+left: 700px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.bleach4{
+    position: absolute;
+    top: 245px;
+left: 750px;
+width: 25px;
+height: 29px;
+opacity: 1;
+
+}
+.price4{
+    position: absolute;
+    top: 240px;
+left: 1000px;
+width: 100px;
+height: 24px;
+text-align: left;
+font: normal normal normal 18px/24px Open Sans;
+letter-spacing: 0.43px;
+color: #605959;
+opacity: 0.73;
+
+}
+
+.reset4{
+    position: absolute;
+    
+    top: 245px;
+    left: 1220px;
+    width: 60px;
+    height: 32px;
+    background: white 0% 0% no-repeat padding-box;
+    border: 1px solid #5861AE;
+    border-radius: 4px;
+    opacity: 1;
+    
+}
+/* FIFTH ROW STARTED */
+.image5{
+    position:absolute;
+    top: 280px;
+left: 90px;
+width: 45px;
+height: 43px;
+border-radius: 2px;
+opacity: 1;
+
+}
+.joggers{
+    position: absolute;
+    top: 280px;
+    right:0px;
+left: 175px;
+width: 42px;
+height: 19px;
+text-align: left;
+font: normal normal 600 14px/48px Open Sans;
+letter-spacing: 0px;
+color: #1D2022;
+opacity: 1;
+
+}
+.paragraph5{
+    position: absolute;
+    top: 300px;
+left: 175px;
+width: 193px;
+height: 14px;
+text-align: left;
+font: normal normal normal 10px/48px Open Sans;
+letter-spacing: 0px;
+color: #76788B;
+opacity: 1;
+
+}
+.quantity5{
+    position: absolute;
+    top: 310px;
+left: 460px;
+width: 63px;
+height: 26px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #BABABA;
+border-radius: 2px;
+opacity: 1;
+
+}
+.washing5{
+    position: absolute;
+    top: 310px;
+left: 600px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.ironing5{
+    position: absolute;
+    top: 310px;
+left: 650px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.towel5{
+    position: absolute;
+    top: 310px;
+left: 700px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.bleach5{
+    position: absolute;
+    top: 310px;
+left: 750px;
+width: 25px;
+height: 29px;
+opacity: 1;
+
+}
+.price5{
+    position: absolute;
+    top: 290px;
+left: 1000px;
+width: 100px;
+height: 24px;
+text-align: left;
+font: normal normal normal 18px/24px Open Sans;
+letter-spacing: 0.43px;
+color: #605959;
+opacity: 0.73;
+
+}
+
+.reset5{
+    position: absolute;
+    
+    top: 310px;
+    left: 1220px;
+    width: 60px;
+    height: 32px;
+    background: white 0% 0% no-repeat padding-box;
+    border: 1px solid #292d4d;
+    border-radius: 4px;
+    opacity: 1;
+    
+}
+/*   SIXTH ROW STARTED */
+.image6{
+    position:absolute;
+    top: 350px;
+left: 90px;
+width: 45px;
+height: 43px;
+border-radius: 2px;
+opacity: 1;
+
+}
+.boxers{
+    position: absolute;
+    top: 360px;
+    right:0px;
+left: 175px;
+width: 42px;
+height: 19px;
+text-align: left;
+font: normal normal 600 14px/48px Open Sans;
+letter-spacing: 0px;
+color: #1D2022;
+opacity: 1;
+
+}
+.paragraph6{
+    position: absolute;
+    top: 380px;
+left: 175px;
+width: 193px;
+height: 14px;
+text-align: left;
+font: normal normal normal 10px/48px Open Sans;
+letter-spacing: 0px;
+color: #76788B;
+opacity: 1;
+
+}
+.quantity6{
+    position: absolute;
+    top: 380px;
+left: 460px;
+width: 63px;
+height: 26px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #BABABA;
+border-radius: 2px;
+opacity: 1;
+
+}
+.washing6{
+    position: absolute;
+    top: 380px;
+left: 600px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.ironing6{
+    position: absolute;
+    top: 380px;
+left: 650px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.towel6{
+    position: absolute;
+    top: 380px;
+left: 700px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.bleach6{
+    position: absolute;
+    top: 380px;
+left: 750px;
+width: 25px;
+height: 29px;
+opacity: 1;
+
+}
+.price6{
+    position: absolute;
+    top: 360px;
+left: 1000px;
+width: 100px;
+height: 24px;
+text-align: left;
+font: normal normal normal 18px/24px Open Sans;
+letter-spacing: 0.43px;
+color: #605959;
+opacity: 0.73;
+
+}
+
+.reset6{
+    position: absolute;
+    
+    top: 380px;
+    left: 1220px;
+    width: 60px;
+    height: 32px;
+    background: white 0% 0% no-repeat padding-box;
+    border: 1px solid #5861AE;
+    border-radius: 4px;
+    opacity: 1;
+    
+}
+/* SEVENTH ROW STARTED */
+.image7{
+    position:absolute;
+    top: 440px;
+left: 90px;
+width: 45px;
+height: 43px;
+border-radius: 2px;
+opacity: 1;
+
+}
+.sarees{
+    position: absolute;
+    top: 430px;
+    right:0px;
+left: 175px;
+width: 42px;
+height: 19px;
+text-align: left;
+font: normal normal 600 14px/48px Open Sans;
+letter-spacing: 0px;
+color: #1D2022;
+opacity: 1;
+
+}
+.paragraph7{
+    position: absolute;
+    top: 450px;
+left: 175px;
+width: 193px;
+height: 14px;
+text-align: left;
+font: normal normal normal 10px/48px Open Sans;
+letter-spacing: 0px;
+color: #76788B;
+opacity: 1;
+
+}
+.quantity7{
+    position: absolute;
+    top: 460px;
+left: 460px;
+width: 63px;
+height: 26px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #BABABA;
+border-radius: 2px;
+opacity: 1;
+
+}
+.washing7{
+    position: absolute;
+    top: 460px;
+left: 600px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.ironing7{
+    position: absolute;
+    top: 460px;
+left: 650px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.towel7{
+    position: absolute;
+    top: 460px;
+left: 700px;
+width: 25px;
+height: 29px;
+opacity: 1;
+}
+.bleach7{
+    position: absolute;
+    top: 460px;
+left: 750px;
+width: 25px;
+height: 29px;
+opacity: 1;
+
+}
+.price7{
+    position: absolute;
+    top: 440px;
+left: 1000px;
+width: 100px;
+height: 24px;
+text-align: left;
+font: normal normal normal 18px/24px Open Sans;
+letter-spacing: 0.43px;
+color: #605959;
+opacity: 0.73;
+
+}
+
+.reset7{
+    position: absolute;
+    
+    top: 460px;
+    left: 1220px;
+    width: 60px;
+    height: 32px;
+    background: white 0% 0% no-repeat padding-box;
+    border: 1px solid #5861AE;
+    border-radius: 4px;
+    opacity: 1;
+    
+}

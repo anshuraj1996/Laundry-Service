@@ -1,0 +1,6 @@
+.productlistcss{
+    box-sizing: border-box;
+    margin-left:30px;
+    transform: scale(0.9); 
+    transform-origin: 0 0;
+}

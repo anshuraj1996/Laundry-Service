@@ -1,0 +1,176 @@
+.hellooo{
+    position:absolute;
+    top: 930px;
+left: 0px;
+width: 1440px;
+height: 197px;
+background: transparent url('../images/Footer.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.aboutuss{
+    position:absolute;
+    top: 37px;
+left: 137px;
+width: 90px;
+height: 25px;
+text-align: center;
+font: normal normal medium 18px/24px Avenir;
+letter-spacing: 0.18px;
+color: #182838;
+text-transform: uppercase;
+opacity: 1;
+}
+.doorstepp{
+    position:absolute;
+    top: 80px;
+left: 137px;
+width: 251px;
+height: 20px;
+text-align: left;
+font: normal normal normal 15px/20px Avenir;
+letter-spacing: 0.6px;
+color: #3D3D43;
+text-transform: capitalize;
+opacity: 1;
+}
+.homee{
+    position:absolute;
+    top: 40px;
+left: 566px;
+width: 44px;
+height: 22px;
+text-align: center;
+font: normal normal medium 16px/24px Avenir;
+letter-spacing: 0.16px;
+color: #182838;
+text-transform: capitalize;
+opacity: 1
+}
+.signinn{
+    position:absolute;
+    top: 77px;
+left: 566px;
+width: 44px;
+height: 19px;
+text-align: left;
+font: normal normal normal 14px/24px Avenir;
+letter-spacing: 0.14px;
+color: #182838;
+text-transform: capitalize;
+opacity: 1;
+}
+.registerr{
+    position:absolute;
+    top: 116px;
+    left: 566px;
+    width: 44px;
+    height: 19px;
+    text-align: left;
+    font: normal normal normal 14px/24px Avenir;
+    letter-spacing: 0.14px;
+    color: #182838;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.pricingg{
+    position:absolute;
+    top: 40px;
+left: 687px;
+width: 50px;
+height: 22px;
+text-align: center;
+font: normal normal medium 16px/24px Avenir;
+letter-spacing: 0.16px;
+color: #182838;
+text-transform: capitalize;
+opacity: 1;
+}
+.careerr{
+    position:absolute;
+    top: 40px;
+left: 831px;
+width: 50px;
+height: 22px;
+text-align: center;
+font: normal normal medium 16px/24px Avenir;
+letter-spacing: 0.16px;
+color: #182838;
+text-transform: capitalize;
+opacity: 1;
+}
+.blogss{
+    position:absolute;
+    top: 77px;
+left: 831px;
+width: 36px;
+height: 19px;
+text-align: left;
+font: normal normal normal 14px/24px Avenir;
+letter-spacing: 0.14px;
+color: #182838;
+text-transform: capitalize;
+opacity: 1;
+}
+.createe{
+    position:absolute;
+    top: 116px;
+left: 831px;
+width: 42px;
+height: 19px;
+text-align: left;
+font: normal normal normal 14px/24px Avenir;
+letter-spacing: 0.14px;
+color: #182838;
+text-transform: capitalize;
+opacity: 1;
+}
+.cccontact{
+    position:absolute;
+    top: 39px;
+left: 944px;
+width: 58px;
+height: 22px;
+text-align: center;
+font: normal normal medium 16px/24px Avenir;
+letter-spacing: 0.16px;
+color: #182838;
+text-transform: capitalize;
+opacity: 1;
+}
+.socialmediaaa{
+    position:absolute;
+    top: 39px;
+left: 1105px;
+width: 130px;
+height: 25px;
+text-align: center;
+font: normal normal medium 18px/24px Avenir;
+letter-spacing: 0.18px;
+color: #182838;
+text-transform: uppercase;
+opacity: 1;
+}
+.fbb{
+    position:absolute;
+    top: 80.53px;
+left: 1109px;
+width: 20px;
+height: 20px;
+opacity: 0.6;
+}
+.instaa{
+    position:absolute;
+    top: 80.53px;
+left: 1149px;
+width: 19px;
+height: 19px;
+opacity: 0.6;
+}
+.lkdnn{
+    position:absolute;
+    top:80.53px;
+left: 1189px;
+width: 18px;
+height: 18px;
+opacity: 0.6;
+}

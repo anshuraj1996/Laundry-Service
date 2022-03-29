@@ -1,0 +1,87 @@
+.container-18{
+    
+    position: absolute;
+    top:100px;
+left: 410px;
+width: 400px;
+height: 450px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #E5E0E0;
+border-radius: 8px;
+opacity: 1;
+align-content: center;
+}
+.circle{
+    position: absolute;
+    top: 35px;
+left: 150px;
+width: 100px;
+height: 100px;
+background: #5861AE60 0% 0% no-repeat padding-box;
+opacity: 1;
+border-radius: 50%;
+}
+.successful{
+    position: absolute;
+    top: 130px;
+left: 50px;
+width: 297px;
+height: 66px;
+text-align: center;
+font: normal normal bold 24px/33px Open Sans;
+letter-spacing: 0.43px;
+color: #0A1F44;
+opacity: 1;
+}
+.successful1{
+    position: absolute;
+    top: 155px;
+left: 50px;
+width: 297px;
+height: 66px;
+text-align: center;
+font: normal normal bold 24px/33px Open Sans;
+letter-spacing: 0.43px;
+color: #0A1F44;
+opacity: 1;
+}
+.paragaraph-success{
+    position: absolute;
+    top: 215px;
+left: 50px;
+width: 263px;
+height: 45px;
+text-align: center;
+font: normal normal normal 17px/22px Open Sans;
+letter-spacing: -0.41px;
+color: #0A1F44;
+opacity: 1;
+}
+.paragaraph-success1{
+    position: absolute;
+    top: 240px;
+left: 60px;
+width: 263px;
+height: 45px;
+text-align: center;
+font: normal normal normal 17px/22px Open Sans;
+letter-spacing: -0.41px;
+color: #0A1F44;
+opacity: 1;
+}
+.violetbutton{
+    position: absolute;
+    top: 330px;
+    left: 75px;
+    width: 235px;
+    height: 44px;
+    background: #5861AE 0% 0% no-repeat padding-box;
+    border-radius: 22px;
+    opacity: 1;
+    
+}
+.text-on-button{
+    font:  bold;
+    font-family:  sans-serif;
+    color: #FFFFFF;
+}

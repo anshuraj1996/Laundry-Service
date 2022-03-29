@@ -1,0 +1,146 @@
+.m1 h1{
+    position:absolute;
+    top: 339px;
+    left: 69px;
+    width: 284px;
+    height: 197px;
+    text-align: left;
+    font: normal normal 900 62px/80px Avenir;
+    letter-spacing: 2.48px;
+    color: #5861AE;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.m1 .m12{
+    position:absolute;
+    top: 513px;
+    left: 72px;
+    width: 175px;
+    height: 59px;
+    text-align: left;
+    font: normal normal normal 20px/32px Avenir;
+    letter-spacing: 0.8px;
+    color: #565657;
+    text-transform: capitalize;
+    opacity: 1;
+
+}
+.m1 .m13{
+    position:absolute;
+    top: 712px;
+    left: 72px;
+    width: 171px;
+    height: 22px;
+    text-align: left;
+    font: normal normal normal 16px/26px Avenir;
+    letter-spacing: 0.64px;
+    color: #565657;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.m1 .m14{
+    position:absolute;
+    top: 754px;
+    left: 69px;
+    width: 150px;
+    height: 50px;
+    border: 2px solid #5861AE;
+    border-radius: 4px;
+    opacity: 1;
+}
+.m1 .m14 .m141{
+    position:absolute;
+    left: 40px;
+    top:0px;
+    width: 52px;
+    height: 20px;
+    text-align: center;
+    font: normal normal bold 15px/20px Open Sans;
+    letter-spacing: 0.3px;
+    color: #5861AE;
+    opacity: 1;
+
+}
+.m2{
+    position:absolute;
+    top: 81px;
+    left: 402px;
+    width: 1038px;
+    height: 766px;
+    background: #F8F9FF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.m2 h1{
+    position:absolute;
+    top: 45px;
+    left: 63px;
+    width: 157px;
+    height: 44px;
+    text-align: left;
+    font: normal normal medium 32px/60px Avenir;
+    letter-spacing: 1.28px;
+    color: #5861AE;
+    text-transform: uppercase;
+    opacity: 1;
+}
+.m2left{
+    position:absolute;
+    top: 139px;
+    left: 68.5px;
+    width: 322px;
+    height: 27px;
+    text-align: left;
+    font: normal normal normal 17px/27px Open Sans;
+    letter-spacing: 0.6px;
+    color: #77838F;
+    opacity: 1;
+}
+.m2right{
+    position:absolute;
+    top: 139px;
+    left: 568.5px;
+    width: 322px;
+    height: 27px;
+    text-align: left;
+    font: normal normal normal 17px/27px Open Sans;
+    letter-spacing: 0.6px;
+    color: #77838F;
+    opacity: 1;
+}
+.checkbox{
+    position:absolute;
+    top: 585px;
+    left: 218px;
+
+}
+.m2button{
+    position:absolute;
+    top: 648.5px;
+    left: 437.25px;
+    width: 150px;
+    height: 50px;
+    background: #5861AE 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+.m2button .m2btn{
+    position:absolute;
+    top:14;
+    left:43;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    font: normal normal bold 15px/20px Open Sans;
+    letter-spacing: 0.3px;
+    color: #FFFFFF;
+    opacity: 1;
+    background: none;
+    border:none;
+}
+.inputregister{
+    border:none;
+    background: #F8F9FF 0% 0% no-repeat padding-box;;
+    outline: none;
+    border-bottom: 1px solid #5861AE;
+    opacity: 1;
+}
